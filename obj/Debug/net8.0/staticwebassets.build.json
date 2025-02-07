@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bU7LjvXeCZFnJeh61QU/xsQd4/jmhesiOmevh63Nos0=",
+  "Source": "services-order-delete",
+  "BasePath": "_content/services-order-delete",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
