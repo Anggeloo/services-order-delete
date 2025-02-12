@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("services-order-delete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f602ca4ef7cd8ea012f90728308a868bb9b3f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a12ce4a17e2f13b26b1072f3c2e9cd89c66f5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("services-order-delete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("services-order-delete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
