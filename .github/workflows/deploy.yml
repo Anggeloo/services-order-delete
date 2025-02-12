@@ -37,8 +37,8 @@ jobs:
             docker pull anggeloo/microservice-delete-order:latest
             
             # 2) Detener y eliminar el contenedor previo si existe
-            docker stop order_add_container || true
-            docker rm order_add_container || true
+            docker stop order_delete_container || true
+            docker rm order_delete_container || true
             
             # 3) Eliminar cualquier imagen vieja para ahorrar espacio
             docker image prune -f
